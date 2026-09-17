@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32338850/README.md)
-# Zadanie-Rekrutacyjne-# Fuel Delivery Reconciliation
+﻿# Fuel Delivery Reconciliation
 
 ## Cel rozwiązania
 
